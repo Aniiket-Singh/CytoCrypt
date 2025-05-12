@@ -1,4 +1,3 @@
-
 def generate_logistic_sequence(x0: float, r: float, length: int) -> list[float]:
     """Generate a logistic map keystream."""
     seq = []
